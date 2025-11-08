@@ -1,0 +1,8 @@
+{
+  "operation": "erasure",
+  "timestamp_utc": "2025-11-07T23:06:39.107947Z",
+  "entity_id": "E-000001",
+  "fragments_deleted": 3,
+  "requested_by": "demo_user",
+  "reason": "GDPR Article 17 - Right to Erasure"
+}
