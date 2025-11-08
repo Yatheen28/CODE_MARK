@@ -1,0 +1,7 @@
+{
+  "operation": "access",
+  "timestamp_utc": "2025-11-07T23:34:14.207661Z",
+  "entity_id": "E-000001",
+  "user": "demo_user",
+  "purpose": "manual_lookup"
+}
